@@ -4,6 +4,8 @@
     This is a modification of
     Toolbox for Data structures on Canadian climate data CDs.
     1999 Bernhard Reiter 
+    This fixes an important bug which prevents extracting data.
+    It also introduces some useful functions.
     
 
     This program is free software: you can redistribute it and/or modify
