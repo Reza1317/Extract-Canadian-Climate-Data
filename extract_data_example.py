@@ -22,7 +22,7 @@ s = stations[0]
 write_years(f=f, s=s, val=1, years=range(1800, 2018))
 f.close()
 
-# write a file with info anout stations
+# write a file with info about stations
 fn = "/Users/rz13/Documents/test_stations_info.csv"
 f = open(fn, "w")
 write_stations_info(f=f, stn_ids=range(10), val=1, year=1950, month=1)
